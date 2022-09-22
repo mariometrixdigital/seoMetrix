@@ -357,7 +357,7 @@
 								url: "Enter URL in the format of http://www.yoursite.com"
 							}, 
 							email:{
-								required: "We need your email address to contact you",
+								required: "Necesitamos tu dirección de correo electrónico para contactarte",
 								email: "Your email address must be in the format of name@domain.com"
 							}, 
 						}
@@ -386,14 +386,14 @@
 					},
 					messages:{
 							name:{
-								required: "Please enter at least (1) characters"
+								required: "Por favor ingrese al menos (1) caracteres"
 							}, 
 							email:{
-								required: "We need your email address to contact you",
+								required: "Necesitamos tu dirección de correo electrónico para contactarte",
 								email: "Your email address must be in the format of name@domain.com"
 							}, 
 							message:{
-								required: "Please enter at least (2) characters"
+								required: "Por favor ingrese al menos (2) caracteres"
 							}, 
 						}
 		});	
@@ -421,14 +421,14 @@
 					},
 					messages:{
 							name:{
-								required: "Please enter at least (1) characters"
+								required: "Por favor ingrese al menos (1) caracteres"
 							}, 
 							email:{
-								required: "We need your email address to contact you",
+								required: "Necesitamos tu dirección de correo electrónico para contactarte",
 								email: "Your email address must be in the format of name@domain.com"
 							}, 
 							message:{
-								required: "Please enter at least (2) characters"
+								required: "Por favor ingrese al menos (2) caracteres"
 							}, 
 						}
 		});
